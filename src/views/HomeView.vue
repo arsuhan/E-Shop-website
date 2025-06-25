@@ -27,7 +27,7 @@ const states = reactive([
 
   
     <Header />
-    <section class="relative w-full lg:h-screen sm:h-[400px] xs:h-[280px] bg-cover bg-center flex items-center justify-end" style="background-image: url('/public/images/vvv.jpeg');">
+    <section class="relative w-full lg:h-screen sm:h-[400px] xs:h-[280px] bg-cover bg-center flex items-center justify-end" style="background-image: url('/images/vvv.jpeg');">
       <!-- <section class="relative w-full lg:h-screen sm:h-[400px] xs:h-[280px] bg-cover bg-center flex items-center justify-end" style="background-image: url('/images/bedd-1.jpg');"> -->
 
         <section target="_blank" class="block sm:hidden">
